@@ -1,4 +1,4 @@
-# AEDSudoku
+# Particle simulation 
 Projecto de Computação Paralela e Distribuída - Simulação de partículas
 
 -O objetivo do projeto é simular o comportamento de partículas num espaço 2D. O projeto está dividido em 3 partes:
